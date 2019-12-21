@@ -1,4 +1,4 @@
-module github.com/chaunceyt/polly
+module github.com/chaunceyt/pollyctl
 
 go 1.13
 
